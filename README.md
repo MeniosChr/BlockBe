@@ -1,6 +1,6 @@
 A single or multiplayer mini game. All you have to do is simply 
 
-move from one side of the map to another. The game have turns and each turn 
+move from one side of the map to the opposite. The game have turns and each turn 
 
 you can move (typping the right coordinates) or block someones path
 
@@ -12,7 +12,7 @@ Game rules:
 and the rest can be humans or bots.
 
 -You can move up,down,left,right but only one dot far(for example
-if i you are at d3 you can move to d2,d4,e3 or c3)
+if you are at d3 you can move to d2,d4,e3 or c3)
 
 -You can block two slots on the map wherever you want but the
 coordinates must be side by side(for example e3f3)  
