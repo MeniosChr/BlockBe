@@ -1,6 +1,6 @@
 A single or multiplayer mini game. All you have to do is simply 
 
-move from one side of the map to the opposite. The game have turns and each turn 
+move from one side of the map to the opposite. The game has turns and each turn 
 
 you can move (typping the right coordinates) or block someones path
 
@@ -17,8 +17,8 @@ if you are at d3 you can move to d2,d4,e3 or c3)
 -You can block two slots on the map wherever you want but the
 coordinates must be side by side(for example e3f3)  
 
--the game ends when one player move on the opposite side from 
-the one he/she/it start.
+-The game ends when one player move on the opposite side from 
+the one he/she or it start.
 
 -You move or block by typping the right coordinates(one if you want
 to move two if you want to block). First you input columm and then row
